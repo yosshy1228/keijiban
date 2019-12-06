@@ -1,0 +1,129 @@
+main{
+    width: 100%;
+    float:left;
+}
+header{
+    width: 100%;
+    height:20%;
+    background-color: white;
+}
+.menu{
+    background-color: black;
+    width:100%;
+    height:45px;
+    line-height: 40px;
+}
+.menu li{
+    display:inline-block;
+    list-style: none;
+    padding-right: 70px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.main-container{
+    float:left;
+    width: 95%;
+    margin:0 auto;
+    margin-top:10px;
+}
+.left{
+    float:left;
+    width:70%;
+    margin-bottom :10px;
+}
+.keijibanH1{
+    font-weight: bold;
+    background-color:white;
+    font-size: 35px;
+    width: 95%;
+    border-left: solid 5px black;
+    border-bottom: solid 2px black;
+}
+h1{ margin: 0 auto;
+ margin-left: 1%;
+ margin-top:20px;
+ margin-bottom:20px;
+ border-left:4px #b22222 solid;
+ background-color:#fbfbfb;
+ padding-top:5px;
+ padding-bottom:5px;
+ padding-left:15px;
+ width:50px;
+ font-size:20px;
+}
+.text, textarea,{
+ margin-left: 1%;
+ border:1px solid #dfdfdf;
+ padding:5px;
+ color: #999;
+ background: #fff;
+}
+
+h3{
+    font-weight: 100;
+    border-bottom: inset 2px lightgray;
+    width:100%;
+}
+h2{
+    font-weight: 100;
+    border-bottom: 3px dotted black; 
+}
+.right{
+    float:left;
+    width:25%;
+    margin-bottom:100px;
+}
+
+body{font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+}
+form{
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius: 10px;
+    width:95%;
+}
+style.css(CSSファイル)
+次のページへ
+クイズ2 答え
+form div{
+ padding:15px;
+}
+.text, textarea, .dropdown{
+ border:1px solid #dfdfdf;
+ padding:5px;
+ color: #999;
+ background: #fff;
+}
+
+.submit{
+ border:1px solid gray;
+ padding: 4px 10px;
+ color:white;
+ background-color:#888888;
+ border-radius: 5px;
+ border-bottom: 2px solid black;
+}
+
+
+
+.leftsize h1{
+    width: 98%;
+}
+
+.kiji{
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:95%;
+    margin-top: 10px;
+}
+footer{
+       clear: left;
+       width: 100%;
+       color: white;
+       background-color: black;
+       text-align: center;
+       line-height: 100px;
+}
